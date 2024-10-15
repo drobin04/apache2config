@@ -1,0 +1,8 @@
+Package: apache2config
+Version: 1.0-1
+Section: base
+Priority: optional
+Architecture: all
+Depends: python3
+Maintainer: Douglas Robinson <dougrobinson3491@gmail.com>
+Description: A script to configure some common first time setup options for Apache2, such as setting the DocumentRoot, setting permission level of documentroot, editing apache2.conf, and editing php.ini. 
